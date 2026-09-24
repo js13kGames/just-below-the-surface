@@ -1,4 +1,7 @@
 ---
+genres:
+  - adventure
+  - puzzle
 directors_cut: https://aksommerville.com/justbelow-cdrom.zip
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
